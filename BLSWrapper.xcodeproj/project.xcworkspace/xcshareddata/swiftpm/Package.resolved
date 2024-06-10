@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "mclwrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/anquii/MCLWrapper.git",
+      "state" : {
+        "revision" : "540d191e255825dcfba92829b9f091927f247fb5",
+        "version" : "1.59.0"
+      }
+    }
+  ],
+  "version" : 2
+}
